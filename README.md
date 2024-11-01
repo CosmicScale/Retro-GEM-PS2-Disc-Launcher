@@ -2,9 +2,9 @@
 
 This application launches PlayStation and PlayStation 2 game discs on your PlayStation 2 console and sets the Retro GEM Game ID accordingly, allowing per-game settings for all your physical games.
 
-Click the image below to watch the video:
+Video demonstration. Click to watch:
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/q99_ojv7OJ8/0.jpg)](https://www.youtube.com/watch?v=q99_ojv7OJ8)
+[![IMAGE ALT TEXT HERE](https://github.com/user-attachments/assets/831c2d45-cbf6-4805-8a9d-d367ae4854a1)](https://www.youtube.com/watch?v=q99_ojv7OJ8)
 
 ## Features
 
